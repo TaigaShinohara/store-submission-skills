@@ -1,0 +1,4 @@
+interface:
+  display_name: "ストア審査準備"
+  short_description: "アプリを各ストアに出す前に、公式要件をその場で調べ直し、アカウント・規約・プライバシー・権限・課金・年齢レーティング・技"
+  default_prompt: "$store_review_readiness を使って進めて。"

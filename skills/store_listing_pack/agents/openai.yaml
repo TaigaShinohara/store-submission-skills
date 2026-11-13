@@ -1,0 +1,4 @@
+interface:
+  display_name: "ストア素材パック作成"
+  short_description: "アプリ名・紹介文・キーワード・スクリーンショット・アイコン・プライバシー申告など、提出に必要な情報を全ストア分まとめて1"
+  default_prompt: "$store_listing_pack を使って進めて。"

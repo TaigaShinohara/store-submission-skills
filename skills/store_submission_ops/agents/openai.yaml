@@ -1,0 +1,4 @@
+interface:
+  display_name: "ストア提出実行"
+  short_description: "素材パックをもとに、ブラウザ操作や公式APIで各ストアへ実際に提出を進め、自動化できない部分は開発者がそのまま実行できる"
+  default_prompt: "$store_submission_ops を使って進めて。"
