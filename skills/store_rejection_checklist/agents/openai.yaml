@@ -1,0 +1,4 @@
+interface:
+  display_name: "拒審パターンチェック（公開版）"
+  short_description: "App Store / Google Play 提出前に、外部の拒審パターンデータとアプリの実物を照らし合わせ、審査落ちの芽を重大度順に潰す手順スキル"
+  default_prompt: "$store_rejection_checklist を使って進めて。"
